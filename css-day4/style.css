@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+}
+
+*{
+    box-sizing: border-box;
+    font-family: Verdana, sans-serif;
+}
+
+h1{
+    height: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    text-align: center;
+    background-color: lightcoral;
+    color: skyblue;
+}
+img{
+    width: 600px;
+    height: 650px;
+    position: absolute;
+    z-index: -1;
+    margin-left: 500px;
+    border-radius: 3%;
+}
+.text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    padding-top: 500px;
+    margin-left: 50px;
+}
